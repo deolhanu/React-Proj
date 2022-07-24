@@ -1,0 +1,13 @@
+{
+  "users": 
+    [
+      { "id": 1, "name": "Hanu", "email":" hanu@startup", "address": "North Van" },
+      { "id": 2, "name": "jay", "email": "jay@startu", "address": "Fraser" },
+      { "id": 3, "name": "josiah", "email":"joshou@startup", "address": "vancouver" },
+      { "id": 4, "name": "Nyit", "email":"nyit@startup" , "address": "Broadway" },
+      { "id": 5, "name": "jhon", "email":"jhon@startup", "address": "Burrad" },
+      { "id": 6, "name": "coder", "email":"coder@startup", "address": "Surrey" },
+      { "id": 7, "name": "Ray", "email":" Ray@startup", "address": "English Bay" }
+     ]
+}
+
