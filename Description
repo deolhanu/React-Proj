@@ -1,0 +1,7 @@
+Fisrt step is to create a JSON server. We can do it by creating a JSON file and and adding the script in the server which is ""server": "json-server --watch db.json --port 5000"".
+JSON file is by name of db.json
+
+Second we ran the server using CMD by command npm run server.
+
+Next step is to fetch the data from the server url and then implement the search function.
+Logic for that is in App.js
